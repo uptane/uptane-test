@@ -6,3 +6,5 @@ The goal of this test plan is to provide a framework for verifying that an imple
 
 ## Non-Goals
 This test plan does not provide certification or assure compliance to the Uptane Standard.
+
+In addition, this test plan is not a complete set of tests for an implementation. The SHOULDs and MAYs in the standard, best practices as described in the deployment considerations, and any implementation specific features are not included in this test plan. Implementers should write their own test cases to cover all features added in their implementation.
