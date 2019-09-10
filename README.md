@@ -1,7 +1,7 @@
 # Uptane Test Plan
 This repository hosts the Uptane Test Plan. This test plan is intended to help Uptane adopters demonstrate that their implementation follows the requirements of the Uptane Standard.
 
-There will be versions of this test plan for each published version of the Uptane Standard that list requirements for that version of the Standard.
+A test plan will be prepared for each published version of the Uptane Standard listing the requirements for compliance with that version of the Standard.
 
 ## Goals
 The goal of this test plan is to provide a framework for verifying that an implementation meets all of the MUSTs and SHALLs stated in the Uptane Standard.
